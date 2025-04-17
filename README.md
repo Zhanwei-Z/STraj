@@ -143,7 +143,7 @@ Note that the official test results are mixed by the source and the target data.
 
 
 ## Citation
-If you find our work useful in your research, please cite our paper [G2LTraj](https://www.ijcai.org/proceedings/2024/285):
+If you find our work useful in your research, please cite our paper [STraj](https://ojs.aaai.org/index.php/AAAI/article/view/34432):
 ```
 @inproceedings{zhang2025straj,
   title={STraj: Self-training for Bridging the Cross-Geography Gap in Trajectory Prediction},
