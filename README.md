@@ -142,6 +142,19 @@ python test.py -m lanegcn --weight=${CKPT_FILE} --split=val
 Note that the official test results are mixed by the source and the target data. We split the partial validation data as the test data, which is not optimized during the training process. 
 
 
+## Citation
+If you find our work useful in your research, please cite our paper [G2LTraj](https://www.ijcai.org/proceedings/2024/285):
+```
+@inproceedings{zhang2025straj,
+  title={STraj: Self-training for Bridging the Cross-Geography Gap in Trajectory Prediction},
+  author={Zhang, Zhanwei and Chen, Minghao and Gu, Zhihong and Zhao, Xinkui and Yang, Zheng and Lin, Binbin and Cai, Deng and Wang, Wenxiao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  pages={22723--22731},
+  year={2025}
+}
+```
+
 ## Licence
 check [LICENSE](LICENSE)
 
